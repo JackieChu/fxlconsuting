@@ -28,4 +28,4 @@ for (i = 0; i < heroName.length; i++) {
 		"</div></div></div>";
 }
 
-dcCards.insertAdjacentHTML("beforeend", comicCard);
+
