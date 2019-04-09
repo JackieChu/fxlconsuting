@@ -12,7 +12,7 @@ $(function() {
     } else {
       $(this)
         .next('label')
-        .html('=')
+        .html('&times')
         .attr('title', 'tap here to view full profile');
       $(this)
         .parent()

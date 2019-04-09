@@ -60,9 +60,8 @@ html, body {
   opacity: 0.6;
 }
 .profile main {
-  display: none;
+  display: block;
   width: 100%;
-  margin-top:3em;
 }
 .profile main dl {
   display: block;
